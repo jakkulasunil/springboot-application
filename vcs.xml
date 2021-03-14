@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/jakkulasunil/springboot-application.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-handling-form-submission.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Intelli_Workspace" />
